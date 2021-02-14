@@ -5,7 +5,7 @@
 #
 #
 ## Vulnerbility Details:
-#### **Title:** Vulnerbility Exposure of Sensitive Information to an Unauthorized Actor
+#### **Title:** Exposure of Sensitive Information to an Unauthorized Actor
 #### **Severity:** Critical
 #### **Domain:** ISPfromMars.NotOM
 #### **OVE-ID:** CVE-2018-9126
