@@ -17,7 +17,7 @@ A company responsible for providing aliens with 10G internet services. A really 
 ``
 
 `` 
-After this report the company created a new concept to all  living beings, it helped them prevent vulnerabilities like this from falling into the wrong hand(black hat aliens). They called it BugBounty 🤐
+After this report the company created a new concept to all  living beings, it helped them prevent vulnerabilities like this from falling into the wrong hands(black hat aliens). They called it BugBounty 🤐
 ``
 #
 ## Vulnerbility description: 
