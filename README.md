@@ -15,7 +15,7 @@
 ## Introduction:
 ``
 This is a bug report on an imaginary multi-billion dollar ISP located in Mars under domain name of ISPfromMars.NotOM
-A company responsible for providing aliens with 10G internet services. A really good ISP but it only needs hard workers that actually care about the aliens personal data and the own companies data.
+A company responsible for providing aliens with 10G internet services. A really good ISP but it only needs hard workers that actually care about the aliens personal data and the  companies own data.
 ``
 
 `` 
