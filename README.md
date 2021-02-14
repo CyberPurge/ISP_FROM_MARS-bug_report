@@ -11,9 +11,19 @@
 #### **OVE-ID:** CVE-2018-9126
 #
 #
+
+## Introduction:
+``
+This is a bug report on an imaginary multi-billion dollar ISP located in Mars under domain name of ISPfromMars.NotOM
+A company responsible for providing aliens with 10G internet services. A really good ISP but it only needs hard workers that actually care about the aliens personal data and the own companies data.
+``
+
+`` 
+After this report the company created a new concept to all  living beings, it helped them prevent vulnerabilities like this from falling into the wrong hand(black hat aliens). They called it BugBounty 🤐
+``
 ## Vulnerbility description: 
 
-``The vulnerbility can be described as in simple words as a Local File Inclusion **LFI** vulnerbility.``
+``The vulnerbility can be described in simple words as a Local File Inclusion **LFI** vulnerbility.``
 ``The site ISPfromMars.NotOM runs the good old DotNetNuke framework which has been proven not to be the best choice in regards of frameworks to use.``
 
 ``DotNetNuke has desktopmodules just like how wordpress has plugins. One of the Modules used in ISPfromMars.NotOM was 'DNNArticle' this module can be used to get css files for example:``
@@ -27,3 +37,13 @@
 -- https://ISPfromMars.NotOM/desktopmodules/DNNArticle/GetCSS.ashx/?CP=/web.config&smid=512&portalid=3 
 #### Web.config example output:
 ![](https://www.msdigest.net/wp-content/uploads/2016/06/image_thumb-1.png)
+
+## Impact:
+#### The attacker can get the contents of the web.config which contains sensitive database information such as :
+> #####  - DataBase name
+> ##### - DataBase passwords.
+> #####  - DataBase usernames.
+> #####  - and other extremely sensitive credentials.
+#
+#
+#### simple attack ...
