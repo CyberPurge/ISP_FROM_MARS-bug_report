@@ -10,7 +10,6 @@
 #### **OVE-ID:** CVE-2018-9126
 #
 #
-
 ## Introduction:
 ``
 This is a bug report on an imaginary multi-billion dollar ISP located in Mars under domain name of ISPfromMars.NotOM
@@ -20,6 +19,7 @@ A company responsible for providing aliens with 10G internet services. A really 
 `` 
 After this report the company created a new concept to all  living beings, it helped them prevent vulnerabilities like this from falling into the wrong hand(black hat aliens). They called it BugBounty 🤐
 ``
+#
 ## Vulnerbility description: 
 
 ``The vulnerbility can be described in simple words as a Local File Inclusion **LFI** vulnerbility.``
