@@ -3,9 +3,9 @@
 
 
 ## Vulnerbility Details:
-#### *Title:* Vulnerbility Exposure of Sensitive Information to an Unauthorized Actor
-#### *Severity:* Critical
-#### *Domain:* ISPfromMars.om
-#### *OVE-ID:* CVE-2018-9126
+#### **Title:** Vulnerbility Exposure of Sensitive Information to an Unauthorized Actor
+#### **Severity:** Critical
+#### **Domain:** ISPfromMars.om
+#### **OVE-ID:** CVE-2018-9126
 
 ## Vulnerbility description: 
