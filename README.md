@@ -11,5 +11,5 @@
 
 03.## Vulnerbility description: 
 
-`The vulnerbility can be described as in simple words as a Local File Inclusion **(LFI)** vulnerbility.\n
-The site ISPfromMars.NotOM runs the good old DotNetNuke framework`
+```The vulnerbility can be described as in simple words as a Local File Inclusion **(LFI)** vulnerbility.`
+The site ISPfromMars.NotOM runs the good old DotNetNuke framework```
