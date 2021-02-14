@@ -1,5 +1,5 @@
 # ISP from Mars - bug report
-[https://media1.tenor.com/images/bbb7aeebfd93a357822cd6f0b0f4327f/tenor.gif?itemid=10668963]
+![https://media1.tenor.com/images/bbb7aeebfd93a357822cd6f0b0f4327f/tenor.gif]
 ##### This is a totally imaginary internet service provider bug report. anything beyond that isn't true.
 
 
