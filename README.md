@@ -47,4 +47,4 @@ After this report the company created a new concept to all  living beings, it he
 > #####  - and other extremely sensitive credentials.
 #
 #
-#### simple attack ...
+#### simple attack :)
